@@ -7,6 +7,7 @@ Eλληνικά:
 Μπορεί να επεξεργαστεί τα στοιχεία του, να ανεβάσει profile picture καθώς και να αναζητήσει άλλους χρήστες με το ψευδώνυμο ή το πλήρες όνομα τους.
 
 English:
+
 A simple realtime chat.
 Users must signup first and then log with their credentials.
 When they succesfylly log in the app they can communicate with other in a shared window (main chatroom).
